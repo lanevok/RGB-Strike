@@ -64,7 +64,7 @@ html,body {
 				<h1>About</h1>
 			</div>
 			<h3>Introduction</h3>
-			<p>RGB式カラーコードを当てるシンプルなゲームです。<br>Version1.2、 2014/9/20～</p>
+			<p>RGB式カラーコードを当てるシンプルなゲームです。<br>Version1.3、 2014/9/20～</p>
 			<br>
 			<h3>Purpose</h3>
 			<p>

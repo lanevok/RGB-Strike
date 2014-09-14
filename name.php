@@ -68,7 +68,7 @@ html,body {
 				<input type="text" name="name" maxlength="15" placeholder="Name"><br>
 				<button class="btn btn-primary" type="submit">登録</button>
 			</form>
-<?php print_r((($_SESSION['count']-1)*30).",".$_SESSION['time']);?>
+<?php //print_r((($_SESSION['count']-1)*30).",".$_SESSION['time']);?>
 </div>
 		<div id="push"></div>
 	</div>

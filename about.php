@@ -64,7 +64,7 @@ _gaq.push(['_trackPageview']);
   <h1>About</h1>
   </div>
   <h3>Introduction</h3>
-  <p>RGB式カラーコードを当てるシンプルなゲームです。<br>Version1.12、 2014/10/5</p>
+  <p>RGB式カラーコードを当てるシンプルなゲームです。<br>Version1.13、 2014/10/5</p>
   <br>
   <h3>Purpose</h3>
   <p>
@@ -73,7 +73,6 @@ _gaq.push(['_trackPageview']);
   [<a href="http://togetter.com/li/721606">発表関連ツイートまとめ</a>]</p>
   <p>	『デイリーポータル Z：@nifty』 の 『<a href="http://portal.nifty.com/kiji/140924165234_3.htm">プログラムで笑わせろ！「普通じゃないプログラム」発表会</a>』 で，<br>
   発表が取り上げられ，紹介されました．</p>
-  <p>
   <br>
   <h3>Problem</h3>
   <p>
